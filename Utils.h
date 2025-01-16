@@ -9,7 +9,7 @@ namespace utils
 {
 
 /**
- * @brief Measures and prints the execution time of a given function.
+ * @brief Measures and prints the execution time of a given function or block of code.
  *
  * This inline function takes a callable object (function, lambda, etc.), executes it,
  * measures its execution time, and prints the duration in the specified time format.
